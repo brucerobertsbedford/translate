@@ -1,0 +1,2 @@
+- Install [Gradle](https://gradle.org/install/)
+- Install [Google Cloud Command Line Interface (CLI)](https://cloud.google.com/sdk/docs/install)
