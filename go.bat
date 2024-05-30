@@ -1,0 +1,1 @@
+gradle run --args="detect 'my word'"
