@@ -11,7 +11,7 @@
     "createTime":"2024-05-30T10:28:29.680827Z",
     "displayName":"GOOGLE-API-KEY",
     "etag":"W/\"AoQY/WpENvAV1DSSLIVHDQ==\"",
-    "keyString":"AIzaSyBqOsroRCPja0SF_H0sK9r8IwEm8uOIs0E",
+    "keyString":"<your Keystring Value>",
     "name":"projects/140425901528/locations/global/keys/786a81e0-4d77-45e8-9c7d-959b9d85ec44",
     "uid":"786a81e0-4d77-45e8-9c7d-959b9d85ec44",
     "updateTime":"2024-05-30T10:28:29.721123Z"
